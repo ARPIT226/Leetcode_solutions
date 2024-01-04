@@ -1,4 +1,5 @@
 // Problem Link: https://leetcode.com/problems/assign-cookies/
+Approach : 2-pointer approach
 
 class Solution {
 public:
